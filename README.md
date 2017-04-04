@@ -1,5 +1,5 @@
-##tinycore package finder
-### does-tinycore-have
+# does-tinycore-have
+tinycore package finder
 
 quickly find a tcz-package via keyword
 
